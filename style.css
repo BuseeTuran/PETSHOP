@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+
     
 }
 
@@ -11,12 +12,14 @@ body {
 
 .top-menu {
     padding: 20px;
+    width: 1349px;
+    
 }
 
 .menu {
     display: flex;
     justify-content: space-between;
-    width: 100%;
+    
     
     
 }
@@ -48,6 +51,8 @@ body {
     display: flex;
     justify-content: center;
     background: slategrey;
+    width: 1349px;
+    
 }
 
 .inner-menu {
